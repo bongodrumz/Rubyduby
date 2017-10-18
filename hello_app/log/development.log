@@ -1,0 +1,133 @@
+Started GET "/" for 127.0.0.1 at 2017-10-17 12:21:17 +0100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/bong/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/bong/.rvm/gems/ruby-2.4.1/gems/railties-5.1.4/lib/rails/templates/rails/welcome/index.html.erb (7.9ms)
+Completed 200 OK in 1504ms (Views: 33.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-17 15:52:02 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 1901ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:02:06 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 4ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:02:13 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 3ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:03:17 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 5ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:03:20 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 3ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started POST "/__web_console/repl_sessions/31258e4d33158e7a9999906b67825bb9/trace" for 127.0.0.1 at 2017-10-17 16:03:30 +0100
+Started POST "/__web_console/repl_sessions/31258e4d33158e7a9999906b67825bb9/trace" for 127.0.0.1 at 2017-10-17 16:03:33 +0100
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:07:56 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 479ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:18:41 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 436ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:20:30 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 5ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:20:33 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 4ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:20:38 +0100
+Processing by ApplicationController#hello as HTML
+Completed 500 Internal Server Error in 5ms
+
+
+  
+ActionView::MissingTemplate (Missing template application/hello with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/home/bong/workspace/hello_app/app/views"
+):
+  
+app/controllers/application_controller.rb:5:in `hello'
+Started GET "/" for 127.0.0.1 at 2017-10-17 16:22:47 +0100
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 44ms (Views: 43.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-10-17 18:48:03 +0100
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 978ms (Views: 21.6ms)
+
+
